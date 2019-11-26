@@ -1,0 +1,37 @@
+{
+  "cases": [
+    {
+      "id": 1,
+      "title": "Shawee",
+      "content": "",
+      "company": "Shawee",
+      "author": "",
+      "videoUrl": "",
+      "coverUrl": "",
+      "audios": [
+        {
+          "id": 1,
+          "title": "Qualidade de vida",
+          "audioUrl": ""
+        },
+        {
+          "id": 2,
+          "title": "Vagas no mercado",
+          "audioUrl": ""
+        },
+        {
+          "id": 3,
+          "title": "Perfil de profissional",
+          "audioUrl": ""
+        },
+        {
+          "id": 4,
+          "title": "Faixa sálarial",
+          "audioUrl": ""
+        }
+      ]
+    }
+  ],
+  "jobs": [{ "id": 1, "name": "some comment", "companyId": 1 }],
+  "companies": [{ "id": 1, "name": "Shawee", "coverUrl": "" }]
+}

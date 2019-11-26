@@ -1,9 +1,14 @@
 {
+  "highlights": {
+    "id": 1,
+    "videoUrl": "",
+    "coverUrl": ""
+  },
   "cases": [
     {
       "id": 1,
       "title": "Shawee",
-      "content": "",
+      "body": "",
       "company": "Shawee",
       "author": "",
       "videoUrl": "",
@@ -32,6 +37,17 @@
       ]
     }
   ],
-  "jobs": [{ "id": 1, "name": "some comment", "companyId": 1 }],
-  "companies": [{ "id": 1, "name": "Shawee", "coverUrl": "" }]
+  "jobs": [
+    {
+      "id": 1,
+      "name": "FullStack Pleno",
+      "skill": "React, React Native, Node",
+      "money": "R$ 4000 - R$8000",
+      "description": "Loren ipsum",
+      "companyId": 1
+    }
+  ],
+  "companies": [
+    { "id": 1, "name": "Shawee", "email": "vagas@shawee.com", "coverUrl": "" }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "highlights": {
     "id": 1,
-    "videoUrl": "https://youtu.be/1Ia29mi8rUI",
+    "videoUrl": "https://youtube.com/embed/1Ia29mi8rUI",
     "coverUrl": ""
   },
   "cases": [
@@ -11,7 +11,7 @@
       "body": "É uma plataforma digital que automatiza as etapas de idealização, preparação, realização e avaliação dos hackathons.",
       "company": "Shawee",
       "author": "Wendel Nascimento",
-      "videoUrl": "https://youtu.be/Klenfmqq4aw",
+      "videoUrl": "https://youtube.com/embed/Klenfmqq4aw",
       "coverUrl": "images/shawee-img.jpg",
       "audios": [
         {
@@ -33,108 +33,139 @@
           "id": 4,
           "title": "Salário",
           "audioUrl": "audios/4MediaSalarialShawee.wav"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Hotmart",
+      "body": "A Hotmart é uma plataforma EAD especializada em produtos digitais, líder de seu segmento na América Latina, e com vendas realizadas em mais de 150 países ao redor do mundo.",
+      "company": "Hotmart",
+      "author": "Rafael Lages",
+      "videoUrl": "https://youtube.com/embed/Qlxd6V-s24o",
+      "coverUrl": "images/hotmart-img.jpg",
+      "audios": [
+        {
+          "id": 1,
+          "title": "Cultura",
+          "audioUrl": "audios/1CulturaHotmart.wav"
         },
         {
           "id": 2,
-          "title": "Hotmart",
-          "body": "A Hotmart é uma plataforma EAD especializada em produtos digitais, líder de seu segmento na América Latina, e com vendas realizadas em mais de 150 países ao redor do mundo.",
-          "company": "Hotmart",
-          "author": "Rafael Lages",
-          "videoUrl": "https://youtu.be/Qlxd6V-s24o",
-          "coverUrl": "images/hotmart-img.jpg",
-          "audios": [
-            {
-              "id": 1,
-              "title": "Cultura",
-              "audioUrl": "audios/1CulturaHotmart.wav"
-            },
-            {
-              "id": 2,
-              "title": "Vagas no exterior",
-              "audioUrl": "audios/2EmpresasnoexteriorHotmart.wav"
-            },
-            {
-              "id": 3,
-              "title": "Oportunidades no exterior",
-              "audioUrl": "audios/3OportunidadesNoExteriorHotmart.wav"
-            },
-            {
-              "id": 4,
-              "title": "Por que sou desenvolvedor?",
-              "audioUrl": "audios/4PorQueSouDesenvolvedorHotmart.wav"
-            },
-            {
-              "id": 3,
-              "title": "LinkApi",
-              "body": "Nós estamos aqui para disponibilizar aos desenvolvedores e grandes empresas a tecnologia necessária para habilitar a transformação digital sem desperdício financeiro. LinkApi é uma platforma dev-friendly, simples, extensível, confiável, e escalável.",
-              "company": "LinkApi",
-              "author": "Ian Casarim",
-              "videoUrl": "https://youtu.be/697vb4YVxJ4",
-              "coverUrl": "images/linkapi-img.jpg",
-              "audios": [
-                {
-                  "id": 1,
-                  "title": "Cultura",
-                  "audioUrl": "audios/1CulturaLinkApi.wav"
-                },
-                {
-                  "id": 2,
-                  "title": "Perfil dos desenvolvedores",
-                  "audioUrl": "audios/2RecrutamentoLinkApi.wav"
-                },
-                {
-                  "id": 3,
-                  "title": "O que é ser um Dev?",
-                  "audioUrl": "audios/5OQueESerUmDevLinkApi.wav"
-                },
-                {
-                  "id": 4,
-                  "title": "Nossa equipe",
-                  "audioUrl": "audios/6NossaEquipeLinkApi.wav"
-                },
-                {
-                  "id": 4,
-                  "title": "Zup",
-                  "body": "Desenvolvemos produtos digitais que impactam diretamente no modelo de negócio dos nossos clientes. Trabalhamos com pessoas incríveis imersas em uma cultura de inovação para gerar crescimento exponencial.",
-                  "company": "Zup",
-                  "author": "Mariana Zancanaro",
-                  "videoUrl": "https://youtu.be/uMfgOtoBnwU",
-                  "coverUrl": "images/zup-img.jpg",
-                  "audios": [
-                    {
-                      "id": 1,
-                      "title": "Cultura",
-                      "audioUrl": "audios/1CulturaZup.wav"
-                    },
-                    {
-                      "id": 2,
-                      "title": "Devs procurados",
-                      "audioUrl": "audios/2DevsprocuradosZup.wav"
-                    },
-                    {
-                      "id": 3,
-                      "title": "Vagas",
-                      "audioUrl": "audios/4VagasZup.wav"
-                    }
-                  ]
-                }
-              ],
-              "jobs": [
-                {
-                  "id": 1,
-                  "name": "FullStack Pleno",
-                  "skill": "React, React Native, Node",
-                  "money": "R$ 4000 - R$8000",
-                  "description": "Loren ipsum",
-                  "companyId": 1
-                }
-              ],
-              "companies": [
-                {
-                  "id": 1,
-                  "name": "Shawee",
-                  "email": "vagas@shawee.com",
-                  "coverUrl": ""
-                }
-              ]
-            }
+          "title": "Vagas no exterior",
+          "audioUrl": "audios/2EmpresasnoexteriorHotmart.wav"
+        },
+        {
+          "id": 3,
+          "title": "Oportunidades no exterior",
+          "audioUrl": "audios/3OportunidadesNoExteriorHotmart.wav"
+        },
+        {
+          "id": 4,
+          "title": "Por que sou desenvolvedor?",
+          "audioUrl": "audios/4PorQueSouDesenvolvedorHotmart.wav"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "LinkApi",
+      "body": "Nós estamos aqui para disponibilizar aos desenvolvedores e grandes empresas a tecnologia necessária para habilitar a transformação digital sem desperdício financeiro. LinkApi é uma platforma dev-friendly, simples, extensível, confiável, e escalável.",
+      "company": "LinkApi",
+      "author": "Ian Casarim",
+      "videoUrl": "https://youtube.com/embed/697vb4YVxJ4",
+      "coverUrl": "images/linkapi-img.jpg",
+      "audios": [
+        {
+          "id": 1,
+          "title": "Cultura",
+          "audioUrl": "audios/1CulturaLinkApi.wav"
+        },
+        {
+          "id": 2,
+          "title": "Perfil dos desenvolvedores",
+          "audioUrl": "audios/2RecrutamentoLinkApi.wav"
+        },
+        {
+          "id": 3,
+          "title": "O que é ser um Dev?",
+          "audioUrl": "audios/5OQueESerUmDevLinkApi.wav"
+        },
+        {
+          "id": 4,
+          "title": "Nossa equipe",
+          "audioUrl": "audios/6NossaEquipeLinkApi.wav"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Zup",
+      "body": "Desenvolvemos produtos digitais que impactam diretamente no modelo de negócio dos nossos clientes. Trabalhamos com pessoas incríveis imersas em uma cultura de inovação para gerar crescimento exponencial.",
+      "company": "Zup",
+      "author": "Mariana Zancanaro",
+      "videoUrl": "https://youtube.com/embed/uMfgOtoBnwU",
+      "coverUrl": "images/zup-img.jpg",
+      "audios": [
+        {
+          "id": 1,
+          "title": "Cultura",
+          "audioUrl": "audios/1CulturaZup.wav"
+        },
+        {
+          "id": 2,
+          "title": "Devs procurados",
+          "audioUrl": "audios/2DevsprocuradosZup.wav"
+        },
+        {
+          "id": 3,
+          "title": "Vagas",
+          "audioUrl": "audios/4VagasZup.wav"
+        }
+      ]
+    }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "name": "FullStack Pleno",
+      "skill": "React, React Native, Node",
+      "money": "R$ 4000 - R$8000",
+      "description": "Loren ipsum",
+      "companyId": 1
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Shawee",
+      "email": "vagas@shawee.com",
+      "coverUrl": ""
+    }
+  ],
+  "tweets": [
+    {
+      "message": "Tweets resgatado com sucesso",
+      "data": [
+        {
+          "id": 1199676799992651800,
+          "text": "#sejadev @machadodiegoh https://t.co/5v0C947JMI",
+          "userScreenName": "@fuentes_gui",
+          "userImage": "https://pbs.twimg.com/profile_images/1199073362980540416/jtBOaHsh_normal.jpg",
+          "userDescription": "",
+          "created_at": "Wed Nov 27 13:10:12 +0000 2019",
+          "image": "https://pbs.twimg.com/media/EKYbrU2WoAAUxb_.jpg"
+        },
+        {
+          "id": 1199405865230651400,
+          "text": "#sejadev https://t.co/7cmW8LxDwU",
+          "userScreenName": "@rodgomesc",
+          "userImage": "https://pbs.twimg.com/profile_images/1142999202152230913/6ThbYC6O_normal.jpg",
+          "userDescription": "Python Lover,  Computer Vision and Open Source enthusiast",
+          "created_at": "Tue Nov 26 19:13:36 +0000 2019",
+          "image": "https://pbs.twimg.com/media/EKUlQ90XkAA6LDZ.jpg"
+        }
+      ]
+    }
+  ]
+}

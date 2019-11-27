@@ -128,11 +128,21 @@
   "jobs": [
     {
       "id": 1,
-      "name": "FullStack Pleno",
+      "name": "FullStack trainee",
       "skill": "React, React Native, Node",
-      "money": "R$ 4000 - R$8000",
-      "description": "Loren ipsum",
-      "companyId": 1
+      "money": "R$ 800 - R$1000",
+      "description": "Se você é apaixonado por desenvolvimento (e por JavaScript), se mantém sempre atualizado e quer ter impacto direto em um software que alcança milhões de usuários, essa é a oportunidade certa para você!",
+      "company": "Shawee",
+      "linkUrl": "https://www.indeed.com.br/rc/clk?jk=7d9123fc1ccf6690&fccid=0965d38e7a0233ac&vjs=3"
+    },
+    {
+      "id": 2,
+      "name": "FullStack Junior",
+      "skill": "React, React Native, Node",
+      "money": "R$ 2000 - R$3000",
+      "description": "Uma empresa com 40 anos de mercado que não se deixa vencer pela tradição. Estamos na busca de Analistas de Desenvolvimento de Software. Sua missão será propor melhorias e desenvolver produtos. Sua opinião e ideias serão acolhidas em reuniões.",
+      "company": "Vulpi - Prodap",
+      "linkUrl": "https://app.vulpi.com.br/prodap/1485"
     }
   ],
   "companies": [

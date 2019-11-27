@@ -5,10 +5,10 @@ O problema detectado foi a falta de visão ou o conhecimento da área de desenvo
 Pontos críticos encontrados:
 
 Falta de estudo de caso sobre profissionais em destaque no mercado. <br>
-Falta de interação, imersão na área
-Falta de conhecimento
-Falta de feira de profissão
-Falta de estímulo de mercado
+Falta de interação, imersão na área <br>
+Falta de conhecimento <br>
+Falta de feira de profissão <br>
+Falta de estímulo de mercado <br>
 
 # OBJETIVO
 
@@ -21,8 +21,11 @@ Criamos um App que seja o primeiro passo para o jovem obter imersão na área de
 -> Fluxo da aplicação: 
 
 Página Home: 1º impacto do aplicativo, onde é exibido um vídeo em destaque convidando-o a entrar no mundo da programação (Diego - RocketSeat). Logo abaixo, é exibido em forma de Cards, estudos de caso sobre empresas atuantes no mercado, inovadoras e recrutadoras de jovens talentos. Ao clicar em um desses Cards, é redirecionado para a tela de Detalhes.
+<br><br>
 Página Detalhes: Nessa página, é exibido um vídeo que apresente a empresa para o jovem, e logo abaixo, são listados aúdios curtos e bem objetivos onde o jovem obtém informações sobre a área em geral com temas específicos, como por exemplo: Vagas no mercado, Faixa salarial, Como é ser um desenvolvedor na empresa, etc.
+<br><br>
 Página Banco de Talentos: Encontra-se uma listagem de vagas principalmente para trainee e estágios. Nessa página as empresas parceiras anunciarão ofertas dessa vagas. 
+<br><br>
 
  # ALCANCE DA APLICAÇÃO
 
@@ -30,12 +33,12 @@ Nossa estratégia é atingir o jovem por meio de mídias sociais, visto que o me
 
 # MONETIZAÇÂO
 
-O App é distribuído de forma gratuita, formentado por empresas parceiras que buscam jovens talentos.
+O App é distribuído de forma gratuita, formentado por empresas parceiras que buscam jovens talentos. O nosso banco de talentos seria a opção principal de coletarmos recursos financeiros para o projeto.
 
 # ROADMAP
 
--> Tela de login
--> Favoritar vídeos
--> Seguir empresas (Receber notificações de novos conteúdos e vagas de talento)
--> Implementar comunidade (Twitter #SejaDev)
--> Área de estudo (E-books, empresas parceiras de ensino -> ex: Rocketseat) - Cupons de desconto
+-> Tela de login <br>
+-> Favoritar vídeos <br>
+-> Seguir empresas (Receber notificações de novos conteúdos e vagas de talento) <br>
+-> Implementar comunidade (Twitter #SejaDev) <br>
+-> Área de estudo (E-books, empresas parceiras de ensino -> ex: Rocketseat) - Cupons de desconto <br>

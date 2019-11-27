@@ -1,53 +1,140 @@
 {
   "highlights": {
     "id": 1,
-    "videoUrl": "",
+    "videoUrl": "https://youtu.be/1Ia29mi8rUI",
     "coverUrl": ""
   },
   "cases": [
     {
       "id": 1,
       "title": "Shawee",
-      "body": "",
+      "body": "É uma plataforma digital que automatiza as etapas de idealização, preparação, realização e avaliação dos hackathons.",
       "company": "Shawee",
-      "author": "",
-      "videoUrl": "",
-      "coverUrl": "",
+      "author": "Wendel Nascimento",
+      "videoUrl": "https://youtu.be/Klenfmqq4aw",
+      "coverUrl": "images/shawee-img.jpg",
       "audios": [
         {
           "id": 1,
           "title": "Qualidade de vida",
-          "audioUrl": ""
+          "audioUrl": "audios/1CulturaLinkApi.wav"
         },
         {
           "id": 2,
-          "title": "Vagas no mercado",
-          "audioUrl": ""
+          "title": "Vagas",
+          "audioUrl": "audios/2VagasShawee.wav"
         },
         {
           "id": 3,
-          "title": "Perfil de profissional",
-          "audioUrl": ""
+          "title": "Perfil do profissional",
+          "audioUrl": "audios/3PerfildoDevShawee.wav"
         },
         {
           "id": 4,
-          "title": "Faixa sálarial",
-          "audioUrl": ""
-        }
-      ]
-    }
-  ],
-  "jobs": [
-    {
-      "id": 1,
-      "name": "FullStack Pleno",
-      "skill": "React, React Native, Node",
-      "money": "R$ 4000 - R$8000",
-      "description": "Loren ipsum",
-      "companyId": 1
-    }
-  ],
-  "companies": [
-    { "id": 1, "name": "Shawee", "email": "vagas@shawee.com", "coverUrl": "" }
-  ]
-}
+          "title": "Salário",
+          "audioUrl": "audios/4MediaSalarialShawee.wav"
+        },
+        {
+          "id": 2,
+          "title": "Hotmart",
+          "body": "A Hotmart é uma plataforma EAD especializada em produtos digitais, líder de seu segmento na América Latina, e com vendas realizadas em mais de 150 países ao redor do mundo.",
+          "company": "Hotmart",
+          "author": "Rafael Lages",
+          "videoUrl": "https://youtu.be/Qlxd6V-s24o",
+          "coverUrl": "images/hotmart-img.jpg",
+          "audios": [
+            {
+              "id": 1,
+              "title": "Cultura",
+              "audioUrl": "audios/1CulturaHotmart.wav"
+            },
+            {
+              "id": 2,
+              "title": "Vagas no exterior",
+              "audioUrl": "audios/2EmpresasnoexteriorHotmart.wav"
+            },
+            {
+              "id": 3,
+              "title": "Oportunidades no exterior",
+              "audioUrl": "audios/3OportunidadesNoExteriorHotmart.wav"
+            },
+            {
+              "id": 4,
+              "title": "Por que sou desenvolvedor?",
+              "audioUrl": "audios/4PorQueSouDesenvolvedorHotmart.wav"
+            },
+            {
+              "id": 3,
+              "title": "LinkApi",
+              "body": "Nós estamos aqui para disponibilizar aos desenvolvedores e grandes empresas a tecnologia necessária para habilitar a transformação digital sem desperdício financeiro. LinkApi é uma platforma dev-friendly, simples, extensível, confiável, e escalável.",
+              "company": "LinkApi",
+              "author": "Ian Casarim",
+              "videoUrl": "https://youtu.be/697vb4YVxJ4",
+              "coverUrl": "images/linkapi-img.jpg",
+              "audios": [
+                {
+                  "id": 1,
+                  "title": "Cultura",
+                  "audioUrl": "audios/1CulturaLinkApi.wav"
+                },
+                {
+                  "id": 2,
+                  "title": "Perfil dos desenvolvedores",
+                  "audioUrl": "audios/2RecrutamentoLinkApi.wav"
+                },
+                {
+                  "id": 3,
+                  "title": "O que é ser um Dev?",
+                  "audioUrl": "audios/5OQueESerUmDevLinkApi.wav"
+                },
+                {
+                  "id": 4,
+                  "title": "Nossa equipe",
+                  "audioUrl": "audios/6NossaEquipeLinkApi.wav"
+                },
+                {
+                  "id": 4,
+                  "title": "Zup",
+                  "body": "Desenvolvemos produtos digitais que impactam diretamente no modelo de negócio dos nossos clientes. Trabalhamos com pessoas incríveis imersas em uma cultura de inovação para gerar crescimento exponencial.",
+                  "company": "Zup",
+                  "author": "Mariana Zancanaro",
+                  "videoUrl": "https://youtu.be/uMfgOtoBnwU",
+                  "coverUrl": "images/zup-img.jpg",
+                  "audios": [
+                    {
+                      "id": 1,
+                      "title": "Cultura",
+                      "audioUrl": "audios/1CulturaZup.wav"
+                    },
+                    {
+                      "id": 2,
+                      "title": "Devs procurados",
+                      "audioUrl": "audios/2DevsprocuradosZup.wav"
+                    },
+                    {
+                      "id": 3,
+                      "title": "Vagas",
+                      "audioUrl": "audios/4VagasZup.wav"
+                    }
+                  ]
+                }
+              ],
+              "jobs": [
+                {
+                  "id": 1,
+                  "name": "FullStack Pleno",
+                  "skill": "React, React Native, Node",
+                  "money": "R$ 4000 - R$8000",
+                  "description": "Loren ipsum",
+                  "companyId": 1
+                }
+              ],
+              "companies": [
+                {
+                  "id": 1,
+                  "name": "Shawee",
+                  "email": "vagas@shawee.com",
+                  "coverUrl": ""
+                }
+              ]
+            }

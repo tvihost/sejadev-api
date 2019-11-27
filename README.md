@@ -25,7 +25,7 @@ Página Home: 1º impacto do aplicativo, onde é exibido um vídeo em destaque c
 Página Detalhes: Nessa página, é exibido um vídeo que apresente a empresa para o jovem, e logo abaixo, são listados aúdios curtos e bem objetivos onde o jovem obtém informações sobre a área em geral com temas específicos, como por exemplo: Vagas no mercado, Faixa salarial, Como é ser um desenvolvedor na empresa, etc.
 <br><br>
 Página Banco de Talentos: Encontra-se uma listagem de vagas principalmente para trainee e estágios. Nessa página as empresas parceiras anunciarão ofertas dessa vagas. 
-<br><br>
+<br>
 
  # ALCANCE DA APLICAÇÃO
 
